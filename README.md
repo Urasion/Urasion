@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi there! 👋   </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> I'm a FrontEnd Developer who believes that great code starts with an exceptional User Experience.</li>While I enjoy building applications with modern ecosystems like React, Next.js, and TypeScript, my curiosity drives me to constantly explore and master new technologies across the web.</li></li></li><li>UX Engineering: I focus on creating seamless, intuitive, and engaging interfaces with the user always in mind.</li></li><li>Lifelong Learning: I thrive on discovering and adapting to new tools and tech stacks.</li></li><li>Review & Record: I don't just learn; I make it a strict habit to continuously review past lessons and rigorously document my journey, turning experiences into lasting knowledge.</li></li><li>Deep Comprehension: I value the "why" and "how" behind the software. By tracing the history and context of a codebase, I strive for a profound, structural understanding of the systems I build. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> I'm a FrontEnd Developer who believes that great code starts with an exceptional User Experience. </li>While I enjoy building applications with modern ecosystems like React, Next.js, and TypeScript, my curiosity drives me to constantly explore and master new technologies across the web.</li></li></li><li>UX Engineering: I focus on creating seamless, intuitive, and engaging interfaces with the user always in mind.</li></li><li>Lifelong Learning: I thrive on discovering and adapting to new tools and tech stacks.</li></li><li>Review & Record: I don't just learn; I make it a strict habit to continuously review past lessons and rigorously document my journey, turning experiences into lasting knowledge.</li></li><li>Deep Comprehension: I value the "why" and "how" behind the software. By tracing the history and context of a codebase, I strive for a profound, structural understanding of the systems I build. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
@@ -13,10 +13,8 @@
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
           <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white">
           <br/><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">
           <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
           <img src="https://img.shields.io/badge/Recoil-0179f3?style=for-the-badge&logo=Recoil&logoColor=white">
-          <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
           </div>
     </div>
@@ -28,5 +26,3 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-
-    
