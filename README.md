@@ -26,3 +26,26 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
+
+
+    ---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Urasion&count_private=true&theme=react&border_radius=10" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Urasion?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Urasion&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Urasion&show_icons=true&theme=gotham" alt="GitHub Stats" />
+</p>
+
+---
