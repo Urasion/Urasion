@@ -29,10 +29,6 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
+   
 
-
-   </div>
-[![Urasion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Urasion)](https://github.com/anuraghazra/github-readme-stats)
     
