@@ -34,6 +34,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Urasion&count_private=true&theme=react&border_radius=10" alt="GitHub Streak" />
 </p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldnjs3690)](https://solved.ac/wldnjs3690/)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=wldnjs3690)](https://solved.ac/wldnjs3690)
 
 
