@@ -31,11 +31,11 @@
 
 ### 📊 My GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com/?user=Urasion&count_private=true&theme=react&border_radius=10" alt="GitHub Streak" />
 </p>
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdrkrwnd)](https://solved.ac/wjdrkrwnd/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldnjs3690)](https://solved.ac/wjdrkrwnd/)
 
 
